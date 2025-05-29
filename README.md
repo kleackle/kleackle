@@ -1,6 +1,6 @@
 <!-- Üst Banner -->
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Merhaba,%20Ben%20Zafer!&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40](https://capsule-render.vercel.app/api?type=waving&color=6:C84153,100:8A8A8A&height=200&section=header&text=Hi,%20I%27m%20Zafer&fontColor=ffffff&fontSize=45&fontAlign=50&fontAlignY=40)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6:C84153,100:8A8A8A&height=200&section=header&text=Hi,%20I%27m%20Zafer&fontColor=ffffff&fontSize=45&fontAlign=50&fontAlignY=40" />
 </p>
 
 <h2 align="center">🖥️ Sistem Yöneticisi | 🌐 Ağ Uzmanı | 🔒 CEH Temel Bilgili</h2>
