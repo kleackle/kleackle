@@ -63,9 +63,7 @@ Merhaba, ben **Zafer**.
 ## 🏆 :Yeteneklerim
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,docker,grafana,html,js,mysql,php,powershell,py,redhat,sqlite,windows,linux" />
-  </a>
 </p>
 
 
