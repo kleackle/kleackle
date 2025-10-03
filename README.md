@@ -39,7 +39,7 @@ Merhaba, ben **Zafer**.
 - Gerçek zamanlı log güncellemesi  
 - Filtreleme ve arama özellikleri
 
-🔗 [Proje Reposuna Git](https://github.com/kleackle/Audit-Log-Analyzer)
+🔗 [Proje Reposuna Git](https://github.com/kleackle/)
 
 ---
 
